@@ -25,3 +25,6 @@ dist-ssr
 
 # Local History
 .history
+
+# API Key
+src/main.js
